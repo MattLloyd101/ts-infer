@@ -20,5 +20,14 @@
   "bugs": {
     "url": "https://github.com/MattLloyd101/ts-infer/issues"
   },
-  "homepage": "https://github.com/MattLloyd101/ts-infer#readme"
+  "homepage": "https://github.com/MattLloyd101/ts-infer#readme",
+  "dependencies": {
+    "@types/node": "^14.0.5",
+    "purify-ts": "^0.15.1"
+  },
+  "devDependencies": {
+    "@types/jest": "^25.2.3",
+    "ts-jest": "^26.0.0",
+    "typescript": "^3.9.3"
+  }
 }
